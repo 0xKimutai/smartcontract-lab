@@ -12,7 +12,7 @@ This repo includes:
 
 ---
 
-## 📌 Topics Covered (so far)
+## 📌 Topics Covered
 - Basics of Solidity
 - Data types and structures
 - Functions and modifiers
