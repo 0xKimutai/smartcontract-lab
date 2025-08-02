@@ -20,15 +20,13 @@ This repo includes:
 - Chainlink Oracles
 - Contract deployment scripts
 - Gas optimization tricks
-- Security considerations (re-entrancy, require checks, etc.)
 
 ---
 
 ## 🛠 Tools & Stack
 - Solidity
-- Hardhat
+- Foundry
 - Chainlink
-- Ethers.js
 - Remix IDE (for fast prototyping)
 
 ---
@@ -40,7 +38,7 @@ This repo includes:
 ---
 
 ## 🚀 Purpose
-This repository serves as both:
+This repository serves as:
 - A personal reference for everything I’ve learned.
 
 Feel free to fork, clone, or contribute if you find something helpful!
